@@ -1,3 +1,5 @@
+#  N-puzzle
+
 TERM PROJECT for a basic programming course. attempt to solve n-puzzle problems by using search algorithms. The n-puzzle problem in the course is a little different in that one of column-wise ascending, column-wise descending, row-wise ascending, and row-wise ascending can be successfully solved.
 
 
